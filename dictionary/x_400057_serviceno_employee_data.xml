@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee Data" max_length="40" name="x_400057_serviceno_employee_data" type="collection">
+        <element label="EmpID" max_length="40" name="empid" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

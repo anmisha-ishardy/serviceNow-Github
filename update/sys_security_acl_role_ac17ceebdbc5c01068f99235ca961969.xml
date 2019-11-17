@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 10:50:07</sys_created_on>
+        <sys_id>ac17ceebdbc5c01068f99235ca961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400057_serviceno_employee_data.x_400057_serviceno.employee_data_user</sys_name>
+        <sys_package display_value="ServiceNow-GitHub" source="x_400057_serviceno">5ce2c26fdb85c01068f99235ca96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow-GitHub">5ce2c26fdb85c01068f99235ca96196a</sys_scope>
+        <sys_security_acl display_value="x_400057_serviceno_employee_data">2017ceebdbc5c01068f99235ca961967</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ac17ceebdbc5c01068f99235ca961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 10:50:07</sys_updated_on>
+        <sys_user_role display_value="x_400057_serviceno.employee_data_user" name="x_400057_serviceno.employee_data_user">5417ceebdbc5c01068f99235ca961935</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
